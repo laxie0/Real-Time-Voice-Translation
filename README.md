@@ -41,7 +41,3 @@ The app listens to the user's speech, converts it into text, translates it into 
 ```bash
 pip install gTTS playsound speechrecognition deep-translator googletransliteration tkinter
 
-python main.py
-
-python setup.py build
-
